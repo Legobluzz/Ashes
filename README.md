@@ -21,11 +21,3 @@ Falls Du mit der AoE.html zwischendurch noch nichts gemacht hast, kannst Du jetz
 Falls Du in der AoE.html zwischendurch auf irgendeinen Knopf gedrückt hast, lieber mal: STRG+r, dann "Spiel laden" -> gxt0.AoE, dann "Befehle laden" -> Befg7t0p2.AoE
 
 Jetzt kannste mit "Auswerten" auswerten und es werden die Auswertungen g7t1p1.html bis g7t1p8.html und die Spieldatei g7t1.AoE im Download-Ordner abgelegt und der Spaß kann von vorne beginnen.
-
-Du wirst die Hände über dem Kopf zusammenschlagen, wenn Du in AoE.js reinschaust... Ich müsste es wahrscheinlich noch einmal komplett neu aufstellen, damit es halbwegs sinnvoll programmiert wäre. Mich würde vor allem interessieren, welche Möglichkeiten es gibt mit der Auswertungsdatei g7t0p2.html Schabernack zu treiben und das Auswertungsprogramm zu ärgern.
-
-Viele Grüße und vielen Dank!!!
-
-Lars
-
-
