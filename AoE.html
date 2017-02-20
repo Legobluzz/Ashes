@@ -1,0 +1,18 @@
+<html>
+<head>
+<script src="AoE.js"></script>
+<link rel="stylesheet" href="AoE.css">
+</head>
+<body>
+<pre>
+<label for="gengame" class="buttonlabel">Spiel</label><select id="newgameid" class="buttonLabel"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option></select><label for="gengame" class="buttonLabel">generieren</label> <label for="loadgame" class="buttonLabel">Spiel laden</label> <label for="save" class="buttonLabel">Z&uuml;ge speichern</label> <label for="loadorders" class="buttonLabel">Befehle laden</label> <label for="auswerten" class="buttonLabel">Auswerten</label>
+
+<span id="ptext"></span>
+</pre>
+<input type="button" onClick="GenerateGame();" id="gengame" class="button">
+<input type="file" onchange="ReadGame();" id="loadgame" class="button">
+<input type="button" onClick="SaveTurns();" id="save" class="button">
+<input type="file" onchange="ReadOrders();" id="loadorders" class="button">
+<input type="button" onClick="Auswerten();" id="auswerten" class="button">
+</body>
+</html>

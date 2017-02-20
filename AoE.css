@@ -1,0 +1,53 @@
+.button {
+width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+.buttonLabel{
+	background: #aaa; 
+	cursor: pointer;
+	padding: 5px;
+}
+.buttonLabel:hover {
+background: #555; 
+}
+.buttonLabel:active {
+background: red; 
+}
+input, select, form {
+	font-family: Fixedsys, Courier, monospace;
+	font-size: 16px;
+	background: none;
+	border: 1;
+	border-color: black;
+	-webkit-appearance: none;
+    cursor:pointer;
+}
+
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+}
+
+input.single, input.PV {
+	width: 18px;
+}
+input.double, .PDU, .FP, .OP, .RP, .FY, .TY, .FI, .TR, .FlugFI, .FlugTR , .QC, .PRplus, .FMplus, .TMplus , .PPtemp {
+	width: 29px;
+}
+
+pre {
+	//background-color: #009;
+	//color: #ff0;
+	font-family: Fixedsys, Courier, monospace;
+	padding: 10px;
+}
+
+.GM {
+	border:solid;
+	border-width:thin;
+	border-color:gray;
+	width:600;
+}
