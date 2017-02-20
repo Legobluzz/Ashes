@@ -18,7 +18,7 @@ Jetzt kannst Du mit der Auswertungsdatei (z.B. g7t0p2.html) den Zug machen: alle
 
 Falls Du mit der AoE.html zwischendurch noch nichts gemacht hast, kannst Du jetzt die Befehle für turn 0 reinladen; alle Spieler die keine Befehle abgegeben haben kriegen dann automatisch einen NMR.
 
-Falls Du in der AoE.html zwischendurch auf irgendeinen Knopf gedrückt hast, lieber mal: STRG+r, dann "Spiel laden" -> gxt0.AoE, dann "Befehle laden" -> Befgxt0pi.AoE
+Falls Du in der AoE.html zwischendurch auf irgendeinen Knopf gedrückt hast, lieber mal: STRG+r, dann "Spiel laden" -> gxt0.AoE, dann "Befehle laden" -> Befg7t0p2.AoE
 
 Jetzt kannste mit "Auswerten" auswerten und es werden die Auswertungen g7t1p1.html bis g7t1p8.html und die Spieldatei g7t1.AoE im Download-Ordner abgelegt und der Spaß kann von vorne beginnen.
 
